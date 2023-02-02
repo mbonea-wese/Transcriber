@@ -3,4 +3,5 @@ git+https://github.com/openai/whisper.git
 celery==4.4.7
 fastapi==0.64.0
 redis==3.5.3
+youtube_dl
 uvicorn==0.13.4
